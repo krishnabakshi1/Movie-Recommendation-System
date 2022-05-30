@@ -6,7 +6,6 @@ pip==21.2.4
 pipreqs==0.4.11
 scikit-image==0.18.3
 scikit-learn==0.24.2
-scikit-learn-intelex==2021.20210714.100439
 scipy==1.7.1
 seaborn==0.11.2
 statsmodels==0.12.2
